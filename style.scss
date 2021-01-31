@@ -145,11 +145,6 @@ table {
     padding: 8px;
   }
   
-  tr:nth-child(even) {
-    background-color: #dddddd;
-  }
-
-  
   .qtybtn{
     border: none;
     background: transparent;
@@ -194,7 +189,7 @@ table {
         padding: 6px;
     }
 }
-@media(max-width:414px){
+@media(max-width:600px){
     .each-item{
         width:100%;
     }
