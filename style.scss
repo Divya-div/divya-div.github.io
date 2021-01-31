@@ -194,10 +194,12 @@ table {
         padding: 6px;
     }
 }
-@media(max-width:375px){
+@media(max-width:414px){
     .each-item{
         width:100%;
     }
+}
+@media(max-width:375px){
     .quantity  {
         input {
             font-size:14px;
